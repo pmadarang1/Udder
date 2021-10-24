@@ -2,4 +2,4 @@
 
 
 
-This is an app that give you milk on demand.
+This is an app that gives you milk on demand.
